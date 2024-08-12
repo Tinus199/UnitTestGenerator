@@ -8,11 +8,11 @@
   </PropertyGroup>
 
   <PropertyGroup>
-    <PackageId>UnitTestGenerator</PackageId>
+    <PackageId>UnitTestTemplateGenerator</PackageId>
     <PackageVersion>1.0.0.20</PackageVersion>
     <Authors>Marthinus Botha</Authors>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
-    <RepositoryUrl>http://REPOSITORY_URL_HERE_OR_DELETE_THIS_LINE</RepositoryUrl>
+    <RepositoryUrl>https://github.com/Tinus199/UnitTestGenerator</RepositoryUrl>
     <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
     <Description>UnitTestGenerator</Description>
     <PackageReleaseNotes>Initial Release</PackageReleaseNotes>
